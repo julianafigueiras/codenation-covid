@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run conda-streamlit.py
+web: sh setup.sh && streamlit run covid-streamlit.py
